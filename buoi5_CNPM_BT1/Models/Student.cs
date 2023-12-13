@@ -8,5 +8,6 @@ namespace buoi5_CNPM_BT1.Models
 {
     internal class Student
     {
+        public int MSSV{ get; set; }
     }
 }
